@@ -19,7 +19,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ArduinoProjectPortugal/carlito.git"
-    "directory": "packages/carlito"
   },
   "license": "MIT",
   "engines": {
